@@ -29,6 +29,7 @@ AIS de NOAA (1–7 de junio de 2023, ~150 M de posiciones).
 
 | clase | tema | pieza que aportó al proyecto | dónde |
 |---|---|---|---|
+| Semana 4 | Abstracción Spark: DAG y .explain | Permitió ver evidenciar los planes de ejecución antes de ejecutar | `03`|
 | Semana 5 | Práctica de Spark: lo que cambia con datos grandes | Ingesta con esquema explícito, agregaciones en una pasada, ventanas (`lag`), joins, aproximaciones, lectura del plan | `01`, `02`, `03` |
 | Semana 6 | Formatos de almacenamiento | Parquet vs Delta, `partitionBy` vs `CLUSTER BY`, *data skipping*, `OPTIMIZE`, *time travel* | `04` |
 | Semana 7 | Gobernanza de datos | Catálogo y esquemas propios en Unity Catalog; comentarios y metadatos en las tablas | `05` |
