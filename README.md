@@ -1,8 +1,8 @@
 # OceanWatch Analytics — Entrega 1
 
-**MINE 4213 · Soluciones Intensivas en Datos · Universidad de los Andes · 2026-20**
+**MINE 4213 · Sistemas Intensivos de Datos · Universidad de los Andes · 2026-20**
 
-**Equipo:** Santiago Palacios ·Jesus Ospino · Miguel Benavides
+**Equipo:** Santiago Palacios - Jesus Ospino - Miguel Benavides
 
 Exploración, preguntas de negocio y almacenamiento óptimo del tráfico marítimo
 AIS de NOAA (1–7 de junio de 2023, ~150 M de posiciones).
