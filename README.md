@@ -22,7 +22,7 @@ AIS de NOAA (1–7 de junio de 2023, ~150 M de posiciones).
 
 ## Cómo ejecutar
 
-1. Correr los notebooks **en orden**: `01 → 02 → 03 → 04 → 05`.
+1. Correr los notebooks **en orden**: 01 -> 02 -> 03 -> 04 -> 05.
 2. Antes del `03`, subir **a mano** el CSV del [World Port Index](https://www.kaggle.com/datasets/mexwell/world-port-index) (`UpdatedPub150.csv`) a `/Volumes/workspace/default/oceanwatch/raw/csv/`. Lo usan las consultas 3.d y 3.e.
 
 ## Bitácora
