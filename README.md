@@ -1,2 +1,4 @@
 # Proyecto-Sistemas-Intensivos-de-Datos
-Santiago
+Santiago Palacios 
+Miguel Benavides 
+Jesus Ospino
